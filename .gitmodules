@@ -1,0 +1,3 @@
+[submodule "Banana"]
+	path = Banana
+	url = https://github.com/Shinyaigeek/Banana.git
